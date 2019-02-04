@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"CountdownTimer"},{"p":"<Unnamed>","l":"Dice"},{"p":"<Unnamed>","l":"DiceScene"},{"p":"<Unnamed>","l":"GameCalc"},{"p":"<Unnamed>","l":"Notes"},{"p":"<Unnamed>","l":"NotesScene"},{"p":"<Unnamed>","l":"ScoreTracker"}]
